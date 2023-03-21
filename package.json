@@ -9,10 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/checkbox": "^0.5.15",
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "@rneui/base": "^4.0.0-rc.7",
+    "@rneui/themed": "^4.0.0-rc.7",
     "expo": "~48.0.6",
     "expo-status-bar": "~1.4.4",
+    "query-string": "^8.1.0",
     "react": "18.2.0",
-    "react-native": "0.71.3"
+    "react-dom": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-web": "^0.18.12",
+    "strict-uri-encode": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
